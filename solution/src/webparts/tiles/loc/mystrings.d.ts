@@ -14,6 +14,8 @@ declare interface ITilesWebPartStrings {
   descriptionField: string;
   urlField: string;
   iconField: string;
+  backgroundColorField: string;
+  backgroundHoverColorField: string;
   targetField: string;
 
   targetCurrent: string;

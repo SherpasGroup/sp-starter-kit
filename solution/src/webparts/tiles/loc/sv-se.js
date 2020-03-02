@@ -13,6 +13,8 @@ define([], function() {
     "descriptionField": "Beskrivning",
     "urlField": "URL",
     "iconField": "UI Fabric ikonnamn",
+    "backgroundColorField": "Bakgrundsfärg",
+    "backgroundHoverColorField": "Hovra bakgrundsfärg",
     "targetField": "Mål",
 
     "targetCurrent": "Aktuellt fönster",

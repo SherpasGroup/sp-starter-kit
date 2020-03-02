@@ -13,6 +13,8 @@ define([], function() {
     "descriptionField": "Description",
     "urlField": "URL",
     "iconField": "UI Fabric icon name",
+    "backgroundColorField": "Background color",
+    "backgroundHoverColorField": "Hover background color",
     "targetField": "Target",
 
     "targetCurrent": "Current window",
