@@ -14,6 +14,8 @@ define([], function() {
     "urlField": "URL",
     "iconField": "UI Fabric ikonnavn",
     "targetField": "Mål",
+    "backgroundColorField": "Background color",
+    "backgroundHoverColorField": "Hover background color",
 
     "targetCurrent": "Gjeldende vindu",
     "targetNew": "Nytt vindu",

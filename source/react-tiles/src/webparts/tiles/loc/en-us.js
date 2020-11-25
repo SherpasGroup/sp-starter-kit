@@ -14,6 +14,8 @@ define([], function() {
     "urlField": "URL",
     "iconField": "UI Fabric icon name",
     "targetField": "Target",
+    "backgroundColorField": "Background color",
+    "backgroundHoverColorField": "Hover background color",
 
     "targetCurrent": "Current window",
     "targetNew": "New tab",
