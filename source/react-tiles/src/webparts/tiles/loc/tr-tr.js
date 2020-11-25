@@ -14,6 +14,8 @@ define([], function() {
     "urlField": "URL",
     "iconField": "UI Fabric ikon adı",
     "targetField": "Hedef",
+    "backgroundColorField": "Background color",
+    "backgroundHoverColorField": "Hover background color",
 
     "targetCurrent": "Geçerli pencere ",
     "targetNew": "Yeni sekme",

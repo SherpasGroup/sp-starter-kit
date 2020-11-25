@@ -4,6 +4,8 @@ export interface ITileInfo {
   url: string;
   icon: string;
   target: LinkTarget;
+  backgroundColor: string;
+  backgroundHoverColor: string;
 }
 
 export enum LinkTarget {
