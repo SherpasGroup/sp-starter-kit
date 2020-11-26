@@ -3,6 +3,7 @@
   "id": "49089f35-4213-425b-a5c0-706b25803484",
   "alias": "RecentlyVisitedSitesWebPart",
   "componentType": "WebPart",
+  "supportsThemeVariants": true,
   "version": "*",
   "manifestVersion": 2,
   "requiresCustomScript": false,
