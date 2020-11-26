@@ -3,6 +3,7 @@
   "id": "726c9a2a-cf33-4928-86a5-fa7c283c610e",
   "alias": "RecentContactsWebPart",
   "componentType": "WebPart",
+  "supportsThemeVariants": true,
   "version": "*",
   "manifestVersion": 2,
   "requiresCustomScript": false,
