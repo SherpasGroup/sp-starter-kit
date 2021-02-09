@@ -105,6 +105,18 @@ export default class TilesWebPart extends BaseClientSideWebPart<ITilesWebPartPro
                       required: true
                     },
                     {
+                      id: 'backgroundColor',
+                      title: strings.backgroundColorField,
+                      type: this.customCollectionFieldType.PropertyFieldColorPicker,
+                      required: false
+                    },
+                    {
+                      id: 'backgroundHoverColor',
+                      title: strings.backgroundHoverColorField,
+                      type: this.customCollectionFieldType.PropertyFieldColorPicker,
+                      required: false
+                    },
+                    {
                       id: "target",
                       title: strings.targetField,
                       type: this.customCollectionFieldType.dropdown,
