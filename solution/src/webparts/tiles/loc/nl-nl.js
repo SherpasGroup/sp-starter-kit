@@ -14,6 +14,8 @@ define([], function() {
       "urlField": "URL",
       "iconField": "UI Fabric icoonnaam",
       "targetField": "Doel",
+      "backgroundColorField": "Background color",
+      "backgroundHoverColorField": "Hover background color",
   
       "targetCurrent": "Huidig venster",
       "targetNew": "Nieuw tabblad",

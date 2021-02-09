@@ -23,7 +23,13 @@ export class Tiles extends React.Component<ITilesProps, {}> {
           this.props.collectionData && this.props.collectionData.length > 0 ? (
             <div className={styles.tilesList}>
               {
-                this.props.collectionData.map((tile, idx) => <Tile key={idx} item={tile} height={this.props.tileHeight} />)
+                this.props.collectionData.map((tile, idx) => 
+                  <Tile 
+                    key={idx} 
+                    item={tile} 
+                    height={this.props.tileHeight} 
+                    backgroundColor={tile.backgroundColor}
+                    backgroundHoverColor={tile.backgroundHoverColor}/>)
               }
             </div>
           ) : (
